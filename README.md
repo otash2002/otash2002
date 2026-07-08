@@ -110,8 +110,8 @@ Backend project using Express.js and PostgreSQL.
 ## 📫 Contact
 
 - GitHub: https://github.com/otash2002
-- Telegram: @YOUR_USERNAME
-- Email: your_email@gmail.com
+- Telegram: @OtabekUktamov
+- Email: uktamovotabek61@gmail.com
 
 ---
 
