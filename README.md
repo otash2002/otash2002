@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi 👋, I'm Otabek Uktamov
 
-<!--
-**otash2002/otash2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Backend Developer (Node.js | NestJS | TypeScript)
 
-Here are some ideas to get you started:
+I am a Backend Developer from Uzbekistan passionate about building scalable REST APIs and fintech applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Tech Stack
+
+- Node.js
+- NestJS
+- TypeScript
+- JavaScript
+- PostgreSQL
+- Prisma ORM
+- Redis
+- Docker
+- REST API
+- JWT
+- Swagger
+- Git
+
+### 📌 Featured Projects
+
+- 💸 International Money Transfer Backend
+- 📱 Mobile Backend
+- 🏢 CRM Backend
+- 📱 Phone Shop API
+
+### 🌱 Currently Learning
+
+- Algorithms & Data Structures
+- System Design
+- Microservices
+
+### 📫 Contact
+
+- GitHub: https://github.com/otash2002
