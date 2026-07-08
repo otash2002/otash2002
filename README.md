@@ -1,37 +1,122 @@
-# Hi 👋, I'm Otabek Uktamov
+<div align="center">
 
-## Backend Developer (Node.js | NestJS | TypeScript)
+# Hi 👋 I'm Otabek Uktamov
 
-I am a Backend Developer from Uzbekistan passionate about building scalable REST APIs and fintech applications.
+### Backend Developer (Node.js | NestJS | TypeScript)
 
-### 🚀 Tech Stack
+Building scalable REST APIs, FinTech applications and backend services.
 
-- Node.js
-- NestJS
-- TypeScript
-- JavaScript
+![](https://komarev.com/ghpvc/?username=otash2002&label=Profile%20Views&color=0e75b6&style=flat)
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+- 💻 Backend Developer from **Uzbekistan 🇺🇿**
+- 🚀 Passionate about **Backend Development** and **REST API**
+- 🌱 Currently learning **Algorithms, System Design, Docker and Microservices**
+- 💳 Interested in **FinTech**, **Payment Systems** and **High-load Backend**
+- 📚 Always improving coding and problem-solving skills
+
+---
+
+## 🛠 Tech Stack
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,ts,js,postgres,redis,docker,git,github,linux,vscode,postman,prisma" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 💸 International Money Transfer Backend
+
+Backend service built with **NestJS**, **PostgreSQL**, **Prisma** and **Redis**.
+
+Features:
+
+- JWT Authentication
+- Role Based Authorization
+- KYC
+- Payment Integration
+- Admin Panel
+- Notifications
+- Cron Jobs
+
+---
+
+### 📱 Mobile Backend
+
+REST API for mobile application.
+
+- Guest Authentication
+- User Authentication
+- MyID Verification
+- Transactions
+- Wallet
+- Notifications
+
+---
+
+### 🏢 CRM Backend
+
+- Authentication
+- User Management
+- Roles & Permissions
 - PostgreSQL
-- Prisma ORM
-- Redis
-- Docker
-- REST API
-- JWT
-- Swagger
-- Git
+- Swagger API
 
-### 📌 Featured Projects
+---
 
-- 💸 International Money Transfer Backend
-- 📱 Mobile Backend
-- 🏢 CRM Backend
-- 📱 Phone Shop API
+### 📦 Phone Shop REST API
 
-### 🌱 Currently Learning
+Backend project using Express.js and PostgreSQL.
 
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=otash2002&show_icons=true&theme=tokyonight&hide_border=true)
+
+---
+
+## 🔥 GitHub Streak
+
+![](https://streak-stats.demolab.com?user=otash2002&theme=tokyonight&hide_border=true)
+
+---
+
+## 💻 Most Used Languages
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=otash2002&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+## 🎯 Current Focus
+
+- Backend Architecture
 - Algorithms & Data Structures
 - System Design
-- Microservices
+- Docker
+- Redis
+- CI/CD
+- Performance Optimization
 
-### 📫 Contact
+---
+
+## 📫 Contact
 
 - GitHub: https://github.com/otash2002
+- Telegram: @YOUR_USERNAME
+- Email: your_email@gmail.com
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+</div>
